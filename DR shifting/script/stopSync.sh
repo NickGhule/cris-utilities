@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+# Path: DR shifting/script/stopSync.sh
+mainPath='/home/nickghule/data/cris/DR shifting'
+source "$mainPath"/resource/globals.sh
+
+
 pmuutmls03="10.129.1.150"
 pmuutmls04="10.129.1.151"
 

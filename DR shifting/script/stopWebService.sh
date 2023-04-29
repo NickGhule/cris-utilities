@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+mainPath='/home/nickghule/data/cris/DR shifting'
+source "$mainPath"/resource/globals.sh
+
+
 
 if [ "$1" = "CR" ]
 then 

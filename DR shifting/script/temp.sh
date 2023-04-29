@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 
+mainPath='/home/nickghule/data/cris/DR shifting'
+source "$mainPath"/resource/globals.sh
+
+
 # check if my sql is running
-redCross="\e[31m\xE2\x9C\x98\e[0m"
-greenCheck="\e[32m\xE2\x9C\x94\e[0m"
 echo -en "Stopping Sync (ML 17 Instance 2) :"
 echo -e " $redCross"
 printf "\e[33m%s\e[0m\n" "Ml17 database is still running. Please stop manually."
