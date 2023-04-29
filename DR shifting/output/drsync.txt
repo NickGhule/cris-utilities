@@ -1,0 +1,13 @@
+publication_name                                                                                                                 progress               
+-------------------------------------------------------------------------------------------------------------------------------- ---------------------- 
+KNW02C_down_up_pub                                                                                                               31667325              
+DD07C_down_up_pub                                                                                                                255168255              
+MVE02C_down_up_pub                                                                                                               115745237              
+SS01C_down_up_pub                                                                                                                136620947              
+AK02C_down_up_pub                                                                                                                501866329              
+ANG03C_down_up_pub                                                                                                               459446926              
+PDG01C_down_up_pub                                                                                                               60139699               
+CIT02C_down_up_pub                                                                                                               58119742               
+BSL14C_down_up_pub                                                                                                               427663981              
+BWD01C_down_up_pub                                                                                                               76007457               
+(10 rows)Execution time: 0.14 seconds

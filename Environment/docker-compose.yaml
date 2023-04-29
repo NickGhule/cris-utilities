@@ -1,0 +1,31 @@
+services:
+  webserver1:
+    image: tomcat-webserver.cris
+    hostname: pmuutwbs01
+    ports:
+      - "8080:8080"
+    container_name: pmuutwbs01
+    networks:
+      cris:
+        ipv4_address: 10.129.1.143
+    volumes:
+      - web1:/usr/local/tomcat/webapps
+  webserver2:
+    image: tomcat-webserver.cris
+    hostname: pmuutwbs02
+    ports:
+      - "8081:8080"
+    container_name: pmuutwbs02
+    networks:
+      cris:
+        ipv4_address: 10.129.1.144
+    volumes:
+      - web1:/usr/local/tomcat/webapps
+
+networks:
+  cris:
+    external: true
+
+volumes:
+  web1:
+    external: true
