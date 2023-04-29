@@ -1,30 +1,7 @@
 #!/usr/bin/env bash
 
-# show green checkmark
-export greenCheck="\e[32m\xE2\x9C\x94\e[0m"
-export redCross="\e[31m\xE2\x9C\x98\e[0m"
-
-# loading animation loop spinner for 3 seconds
-function loadingAnimation() {
-    local -r delay='0.75'
-    local spinstr='\|/-'
-    local temp
-    # for $1 times
-    for (( i=1; i<=$1; i++ )); do
-        # print the spinner
-        temp="${spinstr#?}"
-        printf " [%c] " "$temp"
-        # move the spinner char to the start
-        spinstr=$temp${spinstr%"$temp"}
-        # wait for 0.75 seconds
-        sleep $delay
-        # print the backspace character
-        printf "\b\b\b\b\b"
-
-    done
-    printf "    \b\b\b\b"
-}
-export -f loadingAnimation
+mainPath='/home/nickghule/data/cris/DR shifting'
+source "$mainPath"/resource/globals.sh
 
 # 1) Stop sync service
 ./script/stopSync.sh wr

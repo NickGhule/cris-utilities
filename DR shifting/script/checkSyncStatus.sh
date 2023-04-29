@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+mainPath='/home/nickghule/data/cris/DR shifting'
+source "$mainPath"/resource/globals.sh
+
 case "$1" in
     "CR")
         dbCon="filePath"
@@ -43,6 +46,8 @@ while true; do
         echo -e "$(diff <(echo "$productionSyncStatus") <(echo "$drSyncStatus"))"
         printf "\e[33m%s\e[0m\n" "Sync status mismatch. Please check manually."
         read -r -p "Do you want to check again? (Yes/No) :" yn
+        # delete last lines
+        printf "\033[3A"
         case $yn in
             [Yy]* ) continue;;
             [Nn]* ) exit 1;;
