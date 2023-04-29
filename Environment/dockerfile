@@ -1,0 +1,22 @@
+# from tomcat alpine
+FROM tomcat:9.0.41-jdk8-openjdk
+
+LABEL maintainer="nickghule"
+LABEL version="1.0"
+LABEL organization="CRIS"
+
+# copy war file to tomcat
+COPY ./sample.war /var/lib/tomcat8/webapps/
+
+
+RUN apt-get update && apt-get install -y openssh-server
+RUN useradd -rms /bin/bash -p $1$aMbjmkGU$4ptWUC9rJScmIWJtfZuuw0 -g root -G sudo -u 1001 utswebsrv
+# run sshd in background
+
+# expose port 8080
+EXPOSE 8080
+EXPOSE 22
+RUN service ssh start
+
+# start tomcat
+CMD ["catalina.sh", "run"]

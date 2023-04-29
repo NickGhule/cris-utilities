@@ -1,0 +1,1057 @@
+   ADT01C   --  10.145.80.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 189.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 180.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 201.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   ADT01C   --  10.145.80.31 --- Files copied
+   ADT02C   --  10.145.80.30 --- NotConnected
+ Files already Copied to ALN0AC   --  10.147.84.29
+   ALN0BC   --  10.147.84.30 --- NotConnected
+ Files already Copied to AML0AC   --  10.147.202.31
+   AML0BC   --  10.147.202.30 --- NotConnected
+   ANA01C   --  10.145.202.31 --- NotConnected
+ Files already Copied to ANA02C   --  10.145.202.30
+   ARE02C   --  10.147.214.30 --- NotConnected
+ Files already Copied to ARE03C   --  10.147.214.31
+ Files already Copied to ASK01C   --  10.146.16.31
+   ASK02C   --  10.146.16.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 149.1KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 101.3KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 182.3KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   ASK02C   --  10.146.16.30 --- Files copied
+   ASK03C   --  10.146.16.29 --- NotConnected
+   ATH01C   --  10.147.100.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 177.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 168.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 192.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   ATH01C   --  10.147.100.30 --- Files copied
+   ATH02C   --  10.147.100.31 --- NotConnected
+   ATR01C   --  10.147.112.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 177.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 167.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 192.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   ATR01C   --  10.147.112.31 --- Files copied
+   ATR02C   --  10.147.112.30 --- NotConnected
+   BAQ01C   --  10.146.44.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  99.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 153.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 185.2KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BAQ01C   --  10.146.44.31 --- Files copied
+   BAQ02C   --  10.146.44.30 --- Connected
+root@10.146.44.30's password:
+Permission denied, please try again.
+root@10.146.44.30's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB  84.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  62.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 128.6KB/s   00:00
+root@10.146.44.30's password:
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BAQ02C   --  10.146.44.30 --- Files copied
+   BAQ03C   --  10.146.44.29 --- NotConnected
+   BAR01C   --  10.145.160.31 --- NotConnected
+   BAR02C   --  10.145.160.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 186.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 182.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 203.6KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.7KB/s   00:00
+uts@10.145.160.30's password:
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BAR02C   --  10.145.160.30 --- Files copied
+   BAZ02C   --  10.147.106.19 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 194.2KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 187.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 206.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BAZ02C   --  10.147.106.19 --- Files copied
+   BAZ03C   --  10.147.106.29 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 195.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 186.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 205.6KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   BAZ03C   --  10.147.106.29 --- Files copied
+   BDW01C   --  10.146.21.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 167.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 117.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 156.9KB/s   00:00
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BDW01C   --  10.146.21.31 --- Files copied
+   BDW02C   --  10.146.21.30 --- NotConnected
+   BEH01C   --  10.145.158.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 172.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 167.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 195.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BEH01C   --  10.145.158.31 --- Files copied
+   BEH02C   --  10.145.158.30 --- NotConnected
+   BEL01C   --  10.145.62.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 180.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 171.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 194.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BEL01C   --  10.145.62.31 --- Files copied
+   BEL02C   --  10.145.62.30 --- NotConnected
+   BET01C   --  10.146.9.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 173.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 124.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 163.2KB/s   00:00
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BET01C   --  10.146.9.31 --- Files copied
+   BET02C   --  10.146.9.30 --- NotConnected
+   BGH01C   --  10.145.140.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 178.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 167.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 194.3KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BGH01C   --  10.145.140.31 --- Files copied
+   BGH02C   --  10.145.140.30 --- NotConnected
+   BGT01C   --  10.145.40.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 142.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  93.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 129.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 112.5KB/s   00:04
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BGT01C   --  10.145.40.31 --- Files copied
+   BGT02C   --  10.145.40.30 --- NotConnected
+   BHS01C   --  10.146.8.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 191.2KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 139.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 205.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BHS01C   --  10.146.8.31 --- Files copied
+   BHS02C   --  10.146.8.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 192.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 186.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 205.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.6KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 224.9KB/s   00:02
+   BHS02C   --  10.146.8.30 --- Files copied
+   BHS03C   --  10.146.8.29 --- NotConnected
+   BHS04C   --  10.146.8.28 --- NotConnected
+   BHT01C   --  10.145.70.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 190.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 181.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 202.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BHT01C   --  10.145.70.31 --- Files copied
+   BHT02C   --  10.145.70.30 --- NotConnected
+   BIF01C   --  10.146.59.31 --- NotConnected
+   BIF02C   --  10.146.59.30 --- NotConnected
+   BIN01C   --  10.146.40.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 173.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 158.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 193.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BIN01C   --  10.146.40.31 --- Files copied
+   BIN02C   --  10.146.40.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 166.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 127.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 194.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BIN02C   --  10.146.40.30 --- Files copied
+   BIN03C   --  10.146.40.29 --- NotConnected
+   BIR01C   --  10.146.41.31 --- NotConnected
+   BIR02C   --  10.146.41.30 --- NotConnected
+   BIR03C   --  10.146.41.29 --- NotConnected
+   BJK01C   --  10.147.102.31 --- Connected
+root@10.147.102.31's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 178.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 174.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 191.6KB/s   00:00
+root@10.147.102.31's password:
+50-myusb.rules                                                                                                                                                            100%   70     0.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BJK01C   --  10.147.102.31 --- Files copied
+   BJK02C   --  10.147.102.30 --- NotConnected
+   BJQ01C   --  10.145.230.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 172.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 165.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 192.0KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BJQ01C   --  10.145.230.31 --- Files copied
+   BJQ02C   --  10.145.230.30 --- NotConnected
+   BKA01C   --  10.146.61.31 --- NotConnected
+   BKA02C   --  10.146.61.30 --- NotConnected
+   BKH01C   --  10.145.48.31 --- NotConnected
+   BKH02C   --  10.145.48.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  21.7KB/s   00:02
+libPrinterStatus.so                                                                                                                                                       100%   33KB  33.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     0.6KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  37.5KB/s   00:12
+qr_info.bmp                                                                                                                                                               100%  450KB  45.0KB/s   00:10
+success.bmp                                                                                                                                                               100%  450KB  37.5KB/s   00:12
+   BKH02C   --  10.145.48.30 --- Files copied
+   BLO01C   --  10.147.120.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 157.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 159.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 188.2KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BLO01C   --  10.147.120.31 --- Files copied
+   BLO02C   --  10.147.120.30 --- NotConnected
+   BLO03C   --  10.147.120.29 --- NotConnected
+   BMR01C   --  10.145.68.31 --- NotConnected
+   BMR02C   --  10.145.68.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  14.5KB/s   00:03
+libPrinterStatus.so                                                                                                                                                       100%   33KB  33.1KB/s   00:01
+libQRDisplay.so                                                                                                                                                           100%   67KB  22.2KB/s   00:03
+50-myusb.rules                                                                                                                                                            100%   70     2.5KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  45.0KB/s   00:10
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BMR02C   --  10.145.68.30 --- Files copied
+   BND0AC   --  10.147.242.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 132.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 137.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 173.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BND0AC   --  10.147.242.31 --- Files copied
+   BND0BC   --  10.147.242.30 --- NotConnected
+   BNE01C   --  10.145.54.31 --- NotConnected
+   BNE02C   --  10.145.54.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 184.0KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 177.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 199.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+   BNE02C   --  10.145.54.30 --- Files copied
+   BNI01C   --  10.146.23.31 --- NotConnected
+   BNI02C   --  10.146.23.30 --- Connected
+root@10.146.23.30's password:
+Authentication failed.
+lost connection
+root@10.146.23.30's password:
+Authentication failed.
+lost connection
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BNI02C   --  10.146.23.30 --- Files copied
+   BNI03C   --  10.146.23.29 --- NotConnected
+   BNS01C   --  10.145.132.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 178.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 179.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 204.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.3KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BNS01C   --  10.145.132.31 --- Files copied
+   BNU01C   --  10.145.196.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 170.0KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 176.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 200.0KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+   BNU01C   --  10.145.196.31 --- Files copied
+   BNU02C   --  10.145.196.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 183.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 176.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 188.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BNU02C   --  10.145.196.30 --- Files copied
+   BNU03C   --  10.145.196.29 --- NotConnected
+   BON01C   --  10.147.98.29 --- NotConnected
+   BON02C   --  10.147.98.30 --- Connected
+root@10.147.98.30's password:
+Permission denied, please try again.
+root@10.147.98.30's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 107.2KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 159.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 188.7KB/s   00:00
+root@10.147.98.30's password:
+50-myusb.rules                                                                                                                                                            100%   70     0.6KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BON02C   --  10.147.98.30 --- Files copied
+   BPF02C   --  10.146.7.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  44.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  37.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.5KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  50.0KB/s   00:09
+qr_info.bmp                                                                                                                                                               100%  450KB  50.0KB/s   00:09
+success.bmp                                                                                                                                                               100%  450KB  50.0KB/s   00:09
+   BPF02C   --  10.146.7.30 --- Files copied
+   BPL01C   --  10.146.241.31 --- NotConnected
+   BPL02C   --  10.146.36.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 201.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 196.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 210.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BPL02C   --  10.146.36.30 --- Files copied
+   BPL03C   --  10.146.36.29 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 204.2KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 195.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 209.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     3.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BPL03C   --  10.146.36.29 --- Files copied
+   BPL04C   --  10.146.36.28 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 199.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 192.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 204.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BPL04C   --  10.146.36.28 --- Files copied
+   BPL05C   --  10.146.36.27 --- NotConnected
+   BPL06C   --  10.146.36.26 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 198.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 191.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 210.2KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BPL06C   --  10.146.36.26 --- Files copied
+   BPL07C   --  10.146.36.25 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 203.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 194.2KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 207.6KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     3.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BPL07C   --  10.146.36.25 --- Files copied
+   BPL08C   --  10.146.36.24 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  79.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  68.3KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 101.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.3KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 224.9KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BPL08C   --  10.146.36.24 --- Files copied
+   BPL09C   --  10.146.36.23 --- NotConnected
+   BPL10C   --  10.146.36.22 --- NotConnected
+   BPL12C   --  10.146.36.21 --- Connected
+ssh_exchange_identification: Connection closed by remote host
+lost connection
+ssh_exchange_identification: Connection closed by remote host
+lost connection
+ssh_exchange_identification: Connection closed by remote host
+lost connection
+   BPL12C   --  10.146.36.21 --- Files copied
+   BQQ01C   --  10.145.184.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 170.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 166.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 192.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BQQ01C   --  10.145.184.31 --- Files copied
+   BQQ02C   --  10.145.184.30 --- NotConnected
+   BRG01C   --  10.145.72.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 198.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 193.3KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 208.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+uts@10.145.72.31's password:
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BRG01C   --  10.145.72.31 --- Files copied
+   BRG02C   --  10.145.72.30 --- NotConnected
+   BRG0AC   --  10.145.170.31 --- NotConnected
+   BRG0BC   --  10.145.170.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 176.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 181.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 196.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BRG0BC   --  10.145.170.30 --- Files copied
+   BRI01C   --  10.146.55.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 158.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  77.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 159.6KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+success.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+   BRI01C   --  10.146.55.31 --- Files copied
+   BRI02C   --  10.146.55.30 --- NotConnected
+   BRR02C   --  10.146.49.30 --- NotConnected
+   BRU01C   --  10.146.54.31 --- NotConnected
+   BRU02C   --  10.146.54.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 185.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 173.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 200.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BRU02C   --  10.146.54.30 --- Files copied
+   BSD01C   --  10.145.165.31 --- NotConnected
+   BSD02C   --  10.145.165.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 186.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 181.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 198.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.3KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BSD02C   --  10.145.165.30 --- Files copied
+   BSS01C   --  10.147.248.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 146.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 149.2KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 183.2KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  40.9KB/s   00:11
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BSS01C   --  10.147.248.31 --- Files copied
+   BSS02C   --  10.147.248.30 --- NotConnected
+   BSS03C   --  10.147.248.29 --- NotConnected
+   BTE01C   --  10.147.8.31 --- NotConnected
+   BTE02C   --  10.147.8.30 --- Connected
+root@10.147.8.30's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 196.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  85.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 173.4KB/s   00:00
+root@10.147.8.30's password:
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB  90.0KB/s   00:05
+   BTE02C   --  10.147.8.30 --- Files copied
+   BTE03C   --  10.147.8.29 --- Connected
+root@10.147.8.29's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB  14.5KB/s   00:03
+libPrinterStatus.so                                                                                                                                                       100%   33KB  11.0KB/s   00:03
+libQRDisplay.so                                                                                                                                                           100%   67KB   9.5KB/s   00:07
+root@10.147.8.29's password:
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB  19.6KB/s   00:23
+qr_info.bmp                                                                                                                                                               100%  450KB  12.5KB/s   00:36
+success.bmp                                                                                                                                                               100%  450KB  19.6KB/s   00:23
+   BTE03C   --  10.147.8.29 --- Files copied
+   BTE04C   --  10.147.8.28 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  14.5KB/s   00:03
+libPrinterStatus.so                                                                                                                                                       100%   33KB  33.1KB/s   00:01
+libQRDisplay.so                                                                                                                                                           100%   67KB  22.2KB/s   00:03
+50-myusb.rules                                                                                                                                                            100%   70     0.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 112.5KB/s   00:04
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BTE04C   --  10.147.8.28 --- Files copied
+   BTE05C   --  10.147.8.27 --- NotConnected
+   BUD0AC   --  10.147.224.31 --- NotConnected
+   BUD0BC   --  10.147.224.30 --- NotConnected
+   BUD0CC   --  10.147.224.19 --- NotConnected
+   BUD0DC   --  10.147.224.28 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 176.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 170.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 197.2KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 224.9KB/s   00:02
+   BUD0DC   --  10.147.224.28 --- Files copied
+   BUU01C   --  10.145.104.31 --- NotConnected
+   BUU02C   --  10.145.104.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  56.1KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  41.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  40.9KB/s   00:11
+qr_info.bmp                                                                                                                                                               100%  450KB  45.0KB/s   00:10
+success.bmp                                                                                                                                                               100%  450KB  50.0KB/s   00:09
+   BUU02C   --  10.145.104.30 --- Files copied
+   BWM01C   --  10.147.14.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 197.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 187.2KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 205.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   BWM01C   --  10.147.14.31 --- Files copied
+   BWM02C   --  10.147.14.30 --- NotConnected
+   BWM03C   --  10.147.14.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 197.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 188.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 207.2KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   BWM03C   --  10.147.14.31 --- Files copied
+   BWM04C   --  10.147.14.28 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 196.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 185.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 210.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   BWM04C   --  10.147.14.28 --- Files copied
+   BXN01C   --  10.147.26.29 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 141.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 139.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 177.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BXN01C   --  10.147.26.29 --- Files copied
+   BXN02C   --  10.147.26.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 143.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 147.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 181.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.1KB/s   00:00
+uts@10.147.26.30's password:
+Authentication failed.
+lost connection
+   BXN02C   --  10.147.26.30 --- Files copied
+   BXN04C   --  10.147.26.19 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 144.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 147.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 162.9KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   BXN04C   --  10.147.26.19 --- Files copied
+   CAE02C   --  10.146.5.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  52.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  38.2KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.5KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  45.0KB/s   00:10
+qr_info.bmp                                                                                                                                                               100%  450KB  90.0KB/s   00:05
+success.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+   CAE02C   --  10.146.5.30 --- Files copied
+   CAG01C   --  10.147.118.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  62.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  82.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  74.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.3KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 112.5KB/s   00:04
+qr_info.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+success.bmp                                                                                                                                                               100%  450KB 112.5KB/s   00:04
+   CAG01C   --  10.147.118.30 --- Files copied
+   CBK01C   --  10.146.28.31 --- Connected
+root@10.146.28.31's password:
+Permission denied, please try again.
+root@10.146.28.31's password:
+Permission denied, please try again.
+root@10.146.28.31's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 170.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 113.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 155.1KB/s   00:00
+root@10.146.28.31's password:
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   CBK01C   --  10.146.28.31 --- Files copied
+   CBK02C   --  10.146.28.30 --- NotConnected
+   CJW01C   --  10.147.108.31 --- Connected
+root@10.147.108.31's password:
+Authentication failed.
+lost connection
+root@10.147.108.31's password:
+Authentication failed.
+lost connection
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   CJW01C   --  10.147.108.31 --- Files copied
+   CJW02C   --  10.147.108.30 --- NotConnected
+   CKK01C   --  10.146.53.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 186.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 177.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 199.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   CKK01C   --  10.146.53.31 --- Files copied
+   CKK02C   --  10.146.53.30 --- NotConnected
+   CMU02C   --  10.147.52.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 185.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 128.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 202.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   CMU02C   --  10.147.52.30 --- Files copied
+   COO01C   --  10.147.180.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 166.0KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 111.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 192.9KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   COO01C   --  10.147.180.31 --- Files copied
+   COO02C   --  10.147.180.30 --- NotConnected
+   CRK01C   --  10.146.58.31 --- NotConnected
+   CRK02C   --  10.146.58.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  43.4KB/s   00:01
+libPrinterStatus.so                                                                                                                                                       100%   33KB  52.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.6KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  56.3KB/s   00:08
+qr_info.bmp                                                                                                                                                               100%  450KB  50.0KB/s   00:09
+success.bmp                                                                                                                                                               100%  450KB  56.3KB/s   00:08
+   CRK02C   --  10.146.58.30 --- Files copied
+   CRK0AC   --  10.147.126.31 --- NotConnected
+   CRK0BC   --  10.147.126.30 --- NotConnected
+   CTH01C   --  10.145.122.31 --- Connected
+root@10.145.122.31's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 106.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  33.1KB/s   00:01
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+root@10.145.122.31's password:
+scp: /etc/udev/rules.d/: No such file or directory
+Failure.bmp                                                                                                                                                               100%  450KB  50.0KB/s   00:09
+qr_info.bmp                                                                                                                                                               100%  450KB  56.3KB/s   00:08
+success.bmp                                                                                                                                                               100%  450KB  64.3KB/s   00:07
+   CTH01C   --  10.145.122.31 --- Files copied
+   CTH02C   --  10.145.122.30 --- NotConnected
+   CTJ01C   --  10.145.156.31 --- NotConnected
+   CTJ02C   --  10.145.156.30 --- NotConnected
+   DAR01C   --  10.147.80.31 --- NotConnected
+   DAR02C   --  10.147.80.30 --- NotConnected
+   DAR03C   --  10.147.80.29 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  82.1KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 158.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 143.9KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 112.5KB/s   00:04
+qr_info.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+success.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+   DAR03C   --  10.147.80.29 --- Files copied
+   DDC01C   --  10.145.88.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 187.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 182.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 200.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DDC01C   --  10.145.88.31 --- Files copied
+   DDC02C   --  10.145.88.30 --- NotConnected
+   DDV01C   --  10.147.86.31 --- NotConnected
+   DDV02C   --  10.147.86.30 --- Connected
+root@10.147.86.30's password:
+Permission denied, please try again.
+root@10.147.86.30's password:
+Permission denied, please try again.
+root@10.147.86.30's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 166.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 160.3KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 190.5KB/s   00:00
+root@10.147.86.30's password:
+50-myusb.rules                                                                                                                                                            100%   70     0.5KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DDV02C   --  10.147.86.30 --- Files copied
+   DHR01C   --  10.147.124.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  43.4KB/s   00:01
+libPrinterStatus.so                                                                                                                                                       100%   33KB  38.3KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  56.3KB/s   00:08
+qr_info.bmp                                                                                                                                                               100%  450KB  56.3KB/s   00:08
+success.bmp                                                                                                                                                               100%  450KB  64.3KB/s   00:07
+   DHR01C   --  10.147.124.31 --- Files copied
+   DHR02C   --  10.147.124.30 --- NotConnected
+   DKI01C   --  10.146.18.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  43.4KB/s   00:01
+libPrinterStatus.so                                                                                                                                                       100%   33KB  66.6KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 148.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     0.6KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 150.0KB/s   00:03
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DKI01C   --  10.146.18.31 --- Files copied
+   DKI02C   --  10.146.18.30 --- NotConnected
+   DKN01C   --  10.147.18.31 --- NotConnected
+   DKN02C   --  10.147.18.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 186.1KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 177.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 202.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   DKN02C   --  10.147.18.30 --- Files copied
+   DKN03C   --  10.147.18.29 --- NotConnected
+   DKN04C   --  10.147.18.28 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 186.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 176.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 201.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   DKN04C   --  10.147.18.28 --- Files copied
+   DKR0AC   --  10.147.68.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 164.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 146.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 191.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.5KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 224.9KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DKR0AC   --  10.147.68.31 --- Files copied
+   DKR0BC   --  10.147.68.30 --- NotConnected
+   DMO01C   --  10.145.200.31 --- Connected
+root@10.145.200.31's password:
+Permission denied, please try again.
+root@10.145.200.31's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 183.3KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 141.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 174.8KB/s   00:00
+root@10.145.200.31's password:
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DMO01C   --  10.145.200.31 --- Files copied
+   DMO02C   --  10.145.200.30 --- NotConnected
+   DMO03C   --  10.145.200.29 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 120.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 158.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 197.0KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DMO03C   --  10.145.200.29 --- Files copied
+   DOE01C   --  10.145.82.31 --- NotConnected
+   DOE02C   --  10.145.82.30 --- Connected
+root@10.145.82.30's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 169.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 128.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 167.6KB/s   00:00
+root@10.145.82.30's password:
+scp: /etc/udev/rules.d/: No such file or directory
+uts@10.145.82.30's password:
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 168.9KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DOE02C   --  10.145.82.30 --- Files copied
+   DRA01C   --  10.146.22.31 --- NotConnected
+   DRA02C   --  10.146.22.30 --- NotConnected
+   DRG01C   --  10.145.168.31 --- NotConnected
+   DRG02C   --  10.145.168.30 --- NotConnected
+   DRH01C   --  10.146.6.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 197.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 186.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 204.3KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.9KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   DRH01C   --  10.146.6.31 --- Files copied
+   DRH02C   --  10.146.6.30 --- NotConnected
+   DUM01C   --  10.147.148.31 --- NotConnected
+   DUM02C   --  10.147.148.30 --- Connected
+root@10.147.148.30's password:
+Permission denied, please try again.
+root@10.147.148.30's password:
+libjson-c.so.2                                                                                                                                                            100%   43KB 188.4KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 181.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 204.2KB/s   00:00
+root@10.147.148.30's password:
+50-myusb.rules                                                                                                                                                            100%   70     2.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DUM02C   --  10.147.148.30 --- Files copied
+   DWG01C   --  10.146.64.31 --- NotConnected
+   DWG02C   --  10.146.64.30 --- NotConnected
+   DWG03C   --  10.146.64.29 --- NotConnected
+   DXD01C   --  10.147.94.31 --- NotConnected
+   DXD02C   --  10.147.94.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 154.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 152.0KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 183.1KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.4KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DXD02C   --  10.147.94.30 --- Files copied
+   DY01C   --  10.147.164.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 152.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 152.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 183.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   DY01C   --  10.147.164.31 --- Files copied
+   DY02C   --  10.147.164.30 --- NotConnected
+   ET01C   --  10.146.4.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 192.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 194.2KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 212.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     3.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+   ET01C   --  10.146.4.31 --- Files copied
+   ET02C   --  10.146.4.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 198.0KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 196.9KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 206.0KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     3.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   ET02C   --  10.146.4.30 --- Files copied
+   ET03C   --  10.146.4.29 --- NotConnected
+   ET04C   --  10.146.4.28 --- NotConnected
+   ET05C   --  10.146.4.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 201.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 196.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 213.3KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     3.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.1KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   ET05C   --  10.146.4.30 --- Files copied
+   FSP02C   --  10.147.166.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 162.0KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 135.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 187.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.2KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   FSP02C   --  10.147.166.31 --- Files copied
+   FSP03C   --  10.147.166.29 --- NotConnected
+   GAJ01C   --  10.145.206.31 --- NotConnected
+   GAJ02C   --  10.145.206.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 174.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 167.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 191.7KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GAJ02C   --  10.145.206.30 --- Files copied
+   GAJ0AC   --  10.145.167.31 --- NotConnected
+   GAJ0BC   --  10.145.167.30 --- NotConnected
+   GAR01C   --  10.145.52.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  82.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  82.3KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  75.0KB/s   00:06
+qr_info.bmp                                                                                                                                                               100%  450KB  56.3KB/s   00:08
+success.bmp                                                                                                                                                               100%  450KB  75.0KB/s   00:06
+   GAR01C   --  10.145.52.31 --- Files copied
+   GAR02C   --  10.145.52.30 --- NotConnected
+   GAR03C   --  10.145.52.32 --- Connected
+root@10.145.52.32's password:
+Authentication failed.
+lost connection
+root@10.145.52.32's password:
+Authentication failed.
+lost connection
+uts@10.145.52.32's password:
+Authentication failed.
+lost connection
+   GAR03C   --  10.145.52.32 --- Files copied
+   GAR04C   --  10.145.52.28 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  79.7KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB  92.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  90.0KB/s   00:05
+qr_info.bmp                                                                                                                                                               100%  450KB  75.0KB/s   00:06
+success.bmp                                                                                                                                                               100%  450KB  64.3KB/s   00:07
+   GAR04C   --  10.145.52.28 --- Files copied
+   GEA01C   --  10.145.194.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 169.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 163.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 190.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     2.0KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GEA01C   --  10.145.194.31 --- Files copied
+   GEA02C   --  10.145.194.30 --- NotConnected
+   GGC01C   --  10.147.20.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 192.6KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 180.1KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 199.4KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GGC01C   --  10.147.20.31 --- Files copied
+   GGC02C   --  10.147.20.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 190.5KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 183.5KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 201.5KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.7KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 450.0KB/s   00:01
+qr_info.bmp                                                                                                                                                               100%  450KB 450.1KB/s   00:01
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GGC02C   --  10.147.20.30 --- Files copied
+   GHA01C   --  10.146.82.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 124.8KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 155.2KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 184.8KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.3KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GHA01C   --  10.146.82.31 --- Files copied
+   GHA02C   --  10.146.82.30 --- NotConnected
+   GKB01C   --  10.147.210.31 --- Connected
+root@10.147.210.31's password:
+Authentication failed.
+lost connection
+root@10.147.210.31's password:
+Authentication failed.
+lost connection
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GKB01C   --  10.147.210.31 --- Files copied
+   GKB02C   --  10.147.210.30 --- NotConnected
+   GLG01C   --  10.146.25.31 --- NotConnected
+   GLG02C   --  10.146.25.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  43.4KB/s   00:01
+libPrinterStatus.so                                                                                                                                                       100%   33KB  39.4KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     2.3KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  37.5KB/s   00:12
+qr_info.bmp                                                                                                                                                               100%  450KB  40.9KB/s   00:11
+success.bmp                                                                                                                                                               100%  450KB  34.6KB/s   00:13
+   GLG02C   --  10.146.25.30 --- Files copied
+   GMD01C   --  10.145.42.31 --- NotConnected
+   GMD02C   --  10.145.42.30 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 141.9KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 152.8KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 178.3KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.8KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GMD02C   --  10.145.42.30 --- Files copied
+   GOH01C   --  10.147.62.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB 154.2KB/s   00:00
+libPrinterStatus.so                                                                                                                                                       100%   33KB 118.7KB/s   00:00
+libQRDisplay.so                                                                                                                                                           100%   67KB 186.9KB/s   00:00
+50-myusb.rules                                                                                                                                                            100%   70     1.1KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+qr_info.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+success.bmp                                                                                                                                                               100%  450KB 225.0KB/s   00:02
+   GOH01C   --  10.147.62.31 --- Files copied
+   GOH02C   --  10.147.62.30 --- NotConnected
+   GPC01C   --  10.145.60.31 --- Connected
+libjson-c.so.2                                                                                                                                                            100%   43KB  43.4KB/s   00:01
+libPrinterStatus.so                                                                                                                                                       100%   33KB  33.1KB/s   00:01
+libQRDisplay.so                                                                                                                                                           100%   67KB  66.6KB/s   00:01
+50-myusb.rules                                                                                                                                                            100%   70     1.9KB/s   00:00
+Failure.bmp                                                                                                                                                               100%  450KB  40.9KB/s   00:11
+qr_info.bmp                                                                                                                                                               100%  450KB  45.0KB/s   00:10
+success.bmp                                                                                                                                                               100%  450KB  45.0KB/s   00:10
+   GPC01C   --  10.145.60.31 --- Files copied
+   GPC02C   --  10.145.60.30 --- NotConnected
+   GPC03C   --  10.145.60.29 --- NotConnected
+   GQL01C   --  10.147.218.30 --- NotConnected
+   GQL02C   --  10.147.218.31 --- NotConnected
+   GRO01C   --  10.145.36.31 --- NotConnected
+   GRO02C   --  10.145.36.30 --- Connected
+   GSP02C   --  10.145.84.30 --- Connected
+lost connection
+

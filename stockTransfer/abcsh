@@ -1,0 +1,40 @@
+#!/usr/bin/expect
+ter_code=$1
+zn=$2
+
+case $zn in
+CR) tc_ip_file="/home/sapasa12/TC_SCRIPT/TC_DETAIL_CR";;
+WR) tc_ip_file="/home/sapasa12/TC_SCRIPT/TC_DETAIL_WR";;
+WC) tc_ip_file="/home/sapasa12/TC_SCRIPT/TC_DETAIL_WC";;
+KR) tc_ip_file="/home/sapasa12/TC_SCRIPT/TC_DETAIL_KR";;
+esac
+
+ip=$(cat $tc_ip_file |sed 's/|//g'  | grep -w $ter_code   |awk '{print $3 }')
+ter_ip_online=$ip
+
+logfile="/home/sapasa12/lib_files/$zn"_lib_files_log
+
+chkcp=$(cat "$logfile"  |grep -w "$ter_code" | grep " Files copied" |wc -l )
+if [ "$chkcp" -lt 1 ];then
+
+ping -c 1 $ip >> /dev/null
+if [ $? -eq 0 ]; then
+echo  "   $ter_code   --  $ip --- Connected   "
+echo  "   $ter_code   --  $ip --- Connected   ">>$logfile
+
+scp *so* root@$ip:/usr/lib/
+
+scp  50-myusb.rules root@$ip:/etc/udev/rules.d/
+scp *bmp*  uts@$ip:/home/uts/frm/
+
+echo  "   $ter_code   --  $ip --- Files copied   ">>$logfile
+echo  "   $ter_code   --  $ip --- Files copied   "
+else
+echo  "   $ter_code   --  $ip --- NotConnected   ">>$logfile
+echo  "   $ter_code   --  $ip --- NotConnected   "
+fi
+else
+
+echo " Files already Copied to $ter_code   --  $ip "
+echo " Files already Copied to $ter_code   --  $ip ">>$logfile
+fi
