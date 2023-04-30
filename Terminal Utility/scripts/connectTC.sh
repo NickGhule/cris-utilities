@@ -3,8 +3,8 @@
 zoneCode="$1"
 terminalCode="$2"
 # get terminal ip address
-terminalIP="$(grep "$terminalCode" ./resources/terminalIP_"$zoneCode" | awk '{print $3}')"
-terminalType="$(grep "$terminalCode" ./resources/terminalIP_"$zoneCode" | awk '{print $6}')"
+terminalIP="$(grep "$terminalCode" ../resource/terminalIP_"$zoneCode" | awk '{print $3}')"
+terminalType="$(grep "$terminalCode" ../resource/terminalIP_"$zoneCode" | awk '{print $6}')"
 
 if [ -z "$terminalIP" ]
 then
