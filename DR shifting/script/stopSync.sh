@@ -10,7 +10,7 @@ pmuutmls04="10.0.100.129"
 
 # Stop ASA 12 sync
 # Instance 1 on pmuutmls03
-ssh -n relcrml12@"$pmuutmls03" "bash /mobiscript/asa12/uts/sh/stop""$1""ml1"
+ssh -n relcrml12@"$pmuutmls03" "bash /mobiscript/asa12/uts/sh/stop""$1""ml1" > /dev/null 2>&1
 echo -en "Stopping Sync (ML 12 Instance 1) :"
 loadingAnimation 4
 
@@ -22,13 +22,14 @@ then
     printf "\e[33m%s\e[0m\n" "Ml12 database is still running. Please stop manually."
     echo -en "Press enter to continue"
     read -r
-    printf "\033[2A"
+    printf "\033[1A\033[0K"
+    printf "\033[1A\033[0K"
 else
     echo -e " $greenCheck"
 fi
 
 # instance 2 on pmuutmls04
-ssh relcrml12@"$pmuutmls04" "bash /mobiscript/asa12/uts/sh/stop'$1'ml2"
+ssh relcrml12@"$pmuutmls04" "bash /mobiscript/asa12/uts/sh/stop'$1'ml2" > /dev/null 2>&1
 echo -en "Stopping Sync (ML 12 Instance 2) :"
 loadingAnimation 4
 
@@ -40,7 +41,8 @@ then
     echo -en "Press enter to continue"
     read -r
     # delete last two lines
-    printf "\033[2A"
+    printf "\033[1A\033[0K"
+    printf "\033[1A\033[0K"
 else
     echo -e " $greenCheck"
 fi
@@ -48,7 +50,7 @@ fi
 
 # Stop ASA 17 sync
 # Instance 1 on pmuutmls03
-ssh relcrml17@"$pmuutmls03" "bash /mobiscript/asa17/uts/sh/stop'$1'ml1"
+ssh relcrml17@"$pmuutmls03" "bash /mobiscript/asa17/uts/sh/stop'$1'ml1" > /dev/null 2>&1
 echo -en "Stopping Sync (ML 17 Instance 1) :"
 loadingAnimation 4
 
@@ -59,13 +61,14 @@ then
     printf "\e[33m%s\e[0m\n" "Ml17 database is still running. Please stop manually."
     echo -en "Press enter to continue"
     read -r
-    printf "\033[2A"
+    printf "\033[1A\033[0K"
+    printf "\033[1A\033[0K"
 else
     echo -e " $greenCheck"
 fi
 
 # instance 2 on pmuutmls04
-ssh relcrml17@"$pmuutmls04" "bash /mobiscript/asa17/uts/sh/stop'$1'ml2"
+ssh relcrml17@"$pmuutmls04" "bash /mobiscript/asa17/uts/sh/stop'$1'ml2" > /dev/null 2>&1
 echo -en "Stopping Sync (ML 17 Instance 2) :"
 loadingAnimation 4
 
@@ -76,7 +79,8 @@ then
     printf "\e[33m%s\e[0m\n" "Ml17 database is still running. Please stop manually."
     echo -en "Press enter to continue"
     read -r
-    printf "\033[2A"
+    printf "\033[1A\033[0K"
+    printf "\033[1A\033[0K"
 else
     echo -e " $greenCheck"
 fi
