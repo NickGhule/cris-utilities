@@ -36,8 +36,8 @@ fi
 # 5) Stop web services
 ./script/stopWebServices.sh WR
 
-# 6) Kill users connected to production DB
-./script/killUsers.sh WR
+# 6) Kill process/users connected to production DB
+./script/killProcesses.sh WR
 
 # 7) Check Sync Progress
 ./script/checkSyncProgress.sh WR
