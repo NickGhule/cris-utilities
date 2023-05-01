@@ -57,5 +57,7 @@ else
     printf "\e[33m%s\e[0m\n" "Error in locking users. Please check manually."
     echo -e "Press enter to continue"
     read -r
-    exit 1
+    printf "\033[1A\033[0K"
+    printf "\033[1A\033[0K"
+    printf "\033[1A\033[0K"
 fi

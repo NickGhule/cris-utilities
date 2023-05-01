@@ -47,7 +47,8 @@ while true; do
         printf "\e[33m%s\e[0m\n" "Sync status mismatch. Please check manually."
         read -r -p "Do you want to check again? (Yes/No) :" yn
         # delete last lines
-        printf "\033[3A"
+        printf "\033[1A\033[0K"
+        printf "\033[1A\033[0K"
         case $yn in
             [Yy]* ) continue;;
             [Nn]* ) exit 1;;
